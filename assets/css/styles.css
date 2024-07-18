@@ -60,7 +60,7 @@ a {
   z-index: 1;
 }
 
-.header {
+.hero-wrap {
   display: flex;
   position: relative;
   background-color: #e6f0ff;
