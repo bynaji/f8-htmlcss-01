@@ -163,7 +163,19 @@ a {
 .clients .images {
   display: flex;
   justify-content: space-between;
-  margin-top: 4.38rem;
+  margin-top: 7rem;
+}
+
+.clients .images a {
+  display: flex;
+  align-items: center;
+  padding: 0 4.2rem;
+  height: 9rem;
+}
+
+.clients .images a:hover {
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 1.2rem;
 }
 
 .guides {
