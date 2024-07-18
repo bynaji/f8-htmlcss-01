@@ -608,11 +608,16 @@ a {
   justify-content: center;
   width: 2.8rem;
   height: 2.8471rem;
+  border-radius: 0.3rem;
+  background-color: #f9f9f9;
+}
+
+.footer .social-link + .social-link {
+  margin-left: 1.6rem;
 }
 
 .footer .social-link:hover {
-  background-color: #f9f9f9;
-  border-radius: 0.3rem;
+  background-color: #ebebeb;
 }
 
 .footer .row-bottom {
